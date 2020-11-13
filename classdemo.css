@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+  font-size: 16px;
+  font-family: monospace;
+}
+
+#container {
+  width: 92.5%;
+  margin: 20px auto;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  margin-top: 75px;
+  padding-left: 20px;
+}
+
+ul li {
+  list-style-type: none;
+  padding: 5px 0px 20px 0px;
+  font-size: 16px;
+}
