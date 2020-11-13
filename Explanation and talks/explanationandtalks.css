@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 50px auto;
+  padding: 20px;
+  border: 20px solid rgb(50, 50, 50);
+  width: 40%;
+  background-color: rgb(220, 235, 255);
+}
+
+.post {
+  margin-bottom: 15px;
+  font-size: 18px;
+  font-family: "微軟正黑體", sans-serif;
+}
+
+.date {
+  padding: 20px 0;
+  color: rgb(50, 50, 50);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+h2 {
+  margin-bottom: 15px;
+  padding: 5px;
+  border-bottom: 5px solid rgb(50, 50, 50);
+  font-size: 32px;
+}
+
+h4 {
+  margin-bottom: 15px;
+  font-size: 26px;
+}
+
+.quote {
+  border-left: 5px solid rgb(50, 50, 50);
+  padding-left: 5px;
+  margin-bottom: 15px;
+}
+
+.quote p {
+  border-left: 5px solid rgb(50, 50, 50);
+  padding-left: 5px;
+}
+
+.post-info {
+  margin-right: 200px;
+}
+
+hr {
+  margin: 0 0 5px 5px;
+  background-color: rgb(50, 50, 50);
+}
